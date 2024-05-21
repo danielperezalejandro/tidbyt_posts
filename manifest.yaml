@@ -1,0 +1,8 @@
+---
+id: post
+name: Post
+summary: Visualizar post
+desc: Visualizar post de un apai.
+author: danielperezalejandro
+fileName: post.star
+packageName: post
